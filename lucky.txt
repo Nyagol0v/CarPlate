@@ -15,9 +15,9 @@ class HelloWorld {
         int tretaC = p2[0];
         int chetvurtaC = p2[1];
         if ((purvaC + vtorC)==(tretaC + chetvurtaC)){
-                    System.out.println("yes");
+                    System.out.println("Късметче");
         }else{
-            System.out.println("no");
+            System.out.println("Не е Късметче");
         }
     }
 }
